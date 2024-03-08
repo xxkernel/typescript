@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/58845084/typescript-conditional-return-errors

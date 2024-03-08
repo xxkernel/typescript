@@ -1,0 +1,1 @@
+https://github.com/microsoft/TypeScript/blob/main/src/lib/dom.generated.d.ts
